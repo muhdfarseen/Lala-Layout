@@ -1,18 +1,18 @@
 # @muhdfarseen/lala-layout
 
 > Lightweight, zero-dependency React layout components.
-> Build beautiful layouts with **any** UI library.
+> Build beautiful layouts with ease.
 
 ## Why?
 
-Need a consistent set of layout primitives (`Center`, `Stack`, `Group`, `Grid`, `Flex`, etc.) that work with **any** UI library? `@muhdfarseen/lala-layout` gives you 8 powerful layout components with responsive props, zero dependencies, and full TypeScript support.
+Need a consistent set of layout primitives (`Center`, `Stack`, `Group`, `Grid`, `Flex`, etc.)? `@muhdfarseen/lala-layout` gives you 8 powerful layout components with responsive props, zero dependencies, and full TypeScript support.
 
-- 🪶 **Zero runtime dependencies** — only `react` as a peer dep
-- 📦 **Tree-shakeable** — import only what you use
-- 🎯 **Intuitive API** — clean, consistent props across all components
-- 📱 **Responsive** — all layout props support responsive values
-- 🔧 **Configurable** — customize spacing scale via `LayoutProvider`
-- 💪 **TypeScript-first** — full type definitions included
+-  **Zero runtime dependencies** — only `react` as a peer dep
+-  **Tree-shakeable** — import only what you use
+-  **Intuitive API** — clean, consistent props across all components
+-  **Responsive** — all layout props support responsive values
+-  **Configurable** — customize spacing scale via `LayoutProvider`
+-  **TypeScript-first** — full type definitions included
 
 ## Installation
 
